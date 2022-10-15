@@ -4,6 +4,8 @@ title: Start Here
 
 Hey, I'm Peter Skaronis. Welcome to my online home!
 
+
+
 ## Writing
 This site is my attempt to research, understand and synthesize concepts from many disciplines that interest me.
 I focus on skill stacking and work on a new skill every month.
@@ -33,6 +35,6 @@ Peter Skaronis
 
 ## Say hello
 
-Say hello on Twitter: [@Peter_Skaronis](https://twitter.com/Peter_Skaronis))
+Say hello on Twitter: [@Peter_Skaronis](https://twitter.com/Peter_Skaronis)
 
 I write about networked thought, technology, mental models, psychology, and anything in between.
