@@ -4,7 +4,7 @@ title: Start Here
 
 Hey, I'm Peter Skaronis. Welcome to my online home!
 
-
+![](/assets/ps.png)
 
 ## Writing
 This site is my attempt to research, understand and synthesize concepts from many disciplines that interest me.
