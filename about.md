@@ -25,13 +25,14 @@ The sunset beach in Vancouver in February.. Download this photo by Peter Skaroni
 ## Unsplash
 Peter Skaronis
 
-My Unsplash Portfolio
+[My Portfolio](https://unsplash.com/photos/I91-Wcziiok))
+
 
 ## Favourite Quote
 “If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours. He will put some things behind, will pass an invisible boundary; new, universal, and more liberal laws will begin to establish themselves around and within him; or the old laws be expanded, and interpreted in his favor in a more liberal sense, and he will live with the license of a higher order of beings.”  ― Henry David Thoreau
 
-##Say hello
+## Say hello
 
-Say hello on Twitter: @Peter_Skaronis
+Say hello on Twitter: [@Peter_Skaronis](https://twitter.com/Peter_Skaronis))
 
 I write about networked thought, technology, mental models, psychology, and anything in between.
