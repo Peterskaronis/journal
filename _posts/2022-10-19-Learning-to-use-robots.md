@@ -9,4 +9,4 @@ It was Naval Ravikant who said, "An army of robots is freely available - it's ju
 
 Github pages is one of these robots. Use it.
 
-![[galaxy.png]]
+![image](assets/galaxy.png)
