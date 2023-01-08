@@ -62,6 +62,6 @@ title: "Peter Skaronis" # Site name or title
 logo: "/assets/logo.svg" # Site logo
 # favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
 description: "Thoughts on Life" # Site description and default description
-url: "https://peterskaronis.github.io" # Site url
+url: "https://skaronis.ca/journal" # Site url
 baseurl: ""
 lang: en-GB
